@@ -1,5 +1,5 @@
 # Hi im Bennaya Muhammad Caesar
-<br>🔑 Fullstack Developer
+🔑 Fullstack Developer
 <br>🛡️ Fundamental CyberSecurity
 
 
