@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi im Bennaya Muhammad Caesar<br>🔑 Fullstack Developer<br>🛡️ Fundamental CyberSecurity
+# Hi im Bennaya Muhammad Caesar<br>🔑 Fullstack Developer<br>🛡️ Fundamental CyberSecurity
 
 
 ## 🌐 Socials:
